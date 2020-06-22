@@ -9,7 +9,7 @@
 title: Your Blog Title
 description: '' # write a nice description for your blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sogm1.github.io/"
+url: "https://github.com/sogm1/sogm1.github.io.git"
 # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
