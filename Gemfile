@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem 'jekyll-paginate'
-
-gem "jekyll", "~> 3.8"
+gem 'jekyll', '<4'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate-v2'
